@@ -1,0 +1,6 @@
+1. Create migration, model, controller, route
+2. Declare controller and route
+3. Create view blade
+4. Write Api model (controller, collection, resourcejson)
+5. Create Vue Component
+6. Fetch data from api in vue file
